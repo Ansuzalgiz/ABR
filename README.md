@@ -22,7 +22,7 @@ The ABR is an Automatic Bullpup Rifle for Nerf. With simplicity as the main desi
 |Compression Spring       | 1 | For trigger (McMaster 9657K56 for 6)                     |
 |Torsion Spring           | 1 | For magazine release (McMaster 9271K579 for 12)          |
 |M3x10 Socket head screws | 9 |                                                          |
-|M3x14 Socket head screw  | 1 | Used as axel for pusher assembly                         |
+|M3x14 Socket head screw  | 1 | Used as axle for pusher assembly                         |
 |M3x25 Socket head screws | 2 | Used for flywheel switch and trigger                     |
 |M3x35 Socket head screw  | 1 | For magazine release                                     |
 |M2 screws                | 5 | For motors                                               |
