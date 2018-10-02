@@ -35,6 +35,10 @@ Prototypes were printed using these parameters:
 
 Supports should only be required for the flywheel cage
 
+# Assembly
+
+[Assembly log on Imgur](https://imgur.com/a/5xSceZQ)
+
 # Issues
 ## Jams when using cheap Lightake 12rd Nerf magazines
 I think this is due to the magazine not feeding darts fast enough. It might also be due to the tight magazine well squeezing the magazine. 
@@ -42,6 +46,12 @@ I think this is due to the magazine not feeding darts fast enough. It might also
 # TODO
 ## BOOMco. conversion
 Add alternate barrel to adapt blaster to use BOOMco. darts using [Boomtendo's Nerf->BOOMco. magazine feed lip](https://www.thingiverse.com/thing:2853522). 
+
+## OpenFlywheelProject Eclipse compatability
+Add alternate barrel and flywheel motor mount of OFP Eclipse flywheels
+
+## Document proper assembly instructions
+Create some nicer assembly instructions than a imgur gallery. 
 
 # Contributing
 The project was designed using Fusion 360, under their hobbyist license. Upon updating the Fusion 360 project, export and override the changed part STLs.
