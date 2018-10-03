@@ -39,6 +39,10 @@ Supports should only be required for the flywheel cage
 
 [Assembly log on Imgur](https://imgur.com/a/5xSceZQ)
 
+# Purchasing 3D Printed Parts
+
+I sell the [latest revision of the 3D printed parts on Etsy](https://www.etsy.com/listing/634103494/nerf-abr-3d-printed-parts-kit).
+
 # Issues
 ## Jams when using cheap Lightake 12rd Nerf magazines
 I think this is due to the magazine not feeding darts fast enough. It might also be due to the tight magazine well squeezing the magazine. 
