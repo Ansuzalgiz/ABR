@@ -32,8 +32,7 @@ Prototypes were printed using these parameters:
 - PLA
 - .2mm layer height
 - .4mm nozzle
-
-Supports should only be required for the flywheel cage
+- No supports
 
 # Assembly
 
