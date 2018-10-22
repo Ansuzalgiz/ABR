@@ -57,7 +57,7 @@ Add alternate barrel and flywheel motor mount of OFP Eclipse flywheels
 Create some nicer assembly instructions than a imgur gallery. 
 
 # Contributing
-The project was designed using Fusion 360, under their hobbyist license. Upon updating the Fusion 360 project, export and override the changed part STLs.
+The project was designed using Fusion 360, under their hobbyist license. Upon updating or adding a part, export and override the changed part STEP and STLs.
 
 # Attributions
 This project uses the [Nerf Automatic Pusher by Kuryaka](https://www.thingiverse.com/thing:2980651)
